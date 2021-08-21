@@ -1,4 +1,4 @@
-こんにちは、x3bla です。
+sup
 
 <!---
 x3bla/x3bla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
